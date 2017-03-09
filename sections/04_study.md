@@ -120,6 +120,8 @@ methods [@tag:Arvaniti2016_rare_subsets @tag:Angermueller2016_single_methyl]
 use interesting network architectures to approach single-cell data.
 [@tag:Shaham2016_batch_effects] could fit here.*
 
+Well... there are more and more DL based papers on single-cells are published recently. I can provide some summary on this aspect, we are doing single-cell focused research.
+
 ### Metagenomics
 
 **TODO: Add reference tags to this section**
